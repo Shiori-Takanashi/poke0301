@@ -1,6 +1,5 @@
 #### python
 # filepath: c:\Users\ns69a\allpokemon0301\backend\data_maker\models.py
-from tkinter import N
 from django.db import models
 
 class S1_Endpoint(models.Model):
